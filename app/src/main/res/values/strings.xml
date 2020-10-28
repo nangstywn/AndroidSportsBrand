@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sport Brand</string>
+    <string name="content_main">Berikut Beberapa Brand Terbaik yang saat ini Sangat Populer di Indonesia</string>
+    <string name="content_origin">origin</string>
+    <string name="overview">overview</string>
+    <string name="brand_identity">Brand Identity</string>
+    <string name="university_overview">Brand Overview</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Founders \nFounded \nSlogan \nColours \nWebsite \nRevenue </string>
+    <string name="name_me">Nanang Setyawan</string>
+    <string name="nim_me">NIM : 185410025</string>
+    <string name="email_me">setyawannanang37@gmail.com</string>
+    <string name="origin">Origin </string>
+</resources>
