@@ -90,7 +90,7 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
         <TextView
-            android:text="@string/university_overview"
+            android:text="@string/brand_overview"
             android:textColor="@android:color/black"
             android:textStyle="bold"
             android:textSize="14sp"
